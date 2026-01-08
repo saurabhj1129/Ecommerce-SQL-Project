@@ -23,23 +23,14 @@ Ecommerce-SQL-Project/
 │
 ├── database/
 │   └── ecommerce.sql
-│       └── Contains database creation, tables, constraints, and sample data
 │
 ├── queries/
 │   ├── basic_queries.sql
-│   │   └── Simple SELECT, INSERT, UPDATE, DELETE queries
-│   │
 │   ├── joins.sql
-│   │   └── INNER JOIN, LEFT JOIN, RIGHT JOIN queries
-│   │
 │   ├── transactions.sql
-│   │   └── COMMIT, ROLLBACK, SAVEPOINT examples
-│   │
 │   └── advanced_queries.sql
-│       └── Subqueries, aggregate functions, and complex SQL queries
 │
 └── README.md
-    └── Project documentation and explanation
 ```
 ---
 
