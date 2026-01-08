@@ -85,4 +85,5 @@ Ecommerce-SQL-Project/
 2. Login using root password
 3. Run:
    ```sql
-   SOURCE path/to/database/ecommerce.sql;
+
+   SOURCE path/to/database/ecommerce.sql; 
