@@ -18,6 +18,7 @@ and inventory using SQL.
 
 ## 🗂️ Project Structure
 
+```text
 Ecommerce-SQL-Project/
 │
 ├── database/
@@ -39,7 +40,7 @@ Ecommerce-SQL-Project/
 │
 └── README.md
     └── Project documentation and explanation
-
+```
 ---
 
 ## 🧠 SQL Concepts Used
@@ -60,4 +61,4 @@ Ecommerce-SQL-Project/
 ---
 
 ## 👤 Author
-**Saurabh**
+**Saurabh Jambhulkar**
